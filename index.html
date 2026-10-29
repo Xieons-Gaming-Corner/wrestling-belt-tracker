@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>XGC | Wrestling Belt Tracker</title>
+<link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main>
+<header><p class="brand">XIEON’S GAMING CORNER</p><h1>🏆 Wrestling Belt Tracker</h1>
+<p>Check off each weapon as you complete it. Your checklist stays in this page only.</p></header>
+<section class="summary" aria-label="Your progress">
+<div class="summary-top"><h2 id="progress-text" aria-live="polite">0/18 completed</h2><span id="percent">0%</span></div>
+<progress id="progress" value="0" max="18" aria-label="Weapon completion"></progress>
+<p id="status">Ready to start your run?</p>
+</section>
+<div class="toolbar"><label class="filter"><input id="remaining" type="checkbox"> Show remaining only</label><button id="reset" type="button">Reset progress</button></div>
+<section id="weapons" aria-label="Weapon checklist"></section>
+<p id="empty" hidden>All weapons completed! Uncheck “Show remaining only” to see your checklist.</p>
+<noscript>This tracker requires JavaScript. Enable it to use the checklist.</noscript>
+<footer><p>No account. No saved progress. Reloading or opening a new page starts a fresh checklist.</p>
+<p>Manual checklist only; this page does not verify in-game progress.</p>
+<a href="https://discord.gg/Xieon" target="_blank" rel="noopener noreferrer">Join Xieon’s Gaming Corner on Discord ↗</a></footer>
+</main>
+</body>
+</html>
