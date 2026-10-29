@@ -28,6 +28,25 @@ Uncheck a weapon to remove its completion status. Your progress updates immediat
 
 Select **Reset progress** and confirm to clear all checkmarks.
 
+## ⚠️ Important: Keep Your Weapon Kills Clean
+
+For the safest attempt, avoid effects that can kill zombies instead of the weapon you are working on.
+
+- **Avoid Ammo Mods.** Their effects can finish off zombies, making your apparent weapon kill count unreliable.
+- **Avoid Wisp Tea.** Its summoned companion kills zombies independently of your weapon.
+- **Avoid Elemental Pop.** It can activate Ammo Mod effects even when you have not equipped an Ammo Mod on your weapon.
+- **Avoid Electric Cherry.** This Elemental Pop augment creates an electric discharge when you reload, damaging nearby zombies and potentially finishing them off.
+
+### Before You Check Off a Weapon
+
+Make sure you have completed its required kills with the weapon itself—not with a wisp, an Ammo Mod activation, or reload damage.
+
+If an effect takes a kill, do not assume that kill counted toward the weapon. Get additional direct weapon kills before moving on.
+
+> These are precautions to reduce kill-count confusion, not a claim that simply buying a perk automatically fails the challenge.
+>
+> The tracker is a manual checklist. It cannot detect your loadout, verify qualifying kills, or confirm the in-game unlock.
+
 ## 📋 Weapon Checklist
 
 | # | Weapon | Location |
