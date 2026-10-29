@@ -1,4 +1,3 @@
-```markdown
 # 🏆 XGC Wrestling Belt Tracker
 
 A free, mobile-friendly weapon checklist from Xieon’s Gaming Corner. Track your Wrestling Belt progress while you play—no account or download required.
@@ -95,7 +94,6 @@ Found an incorrect location or have a suggestion?
 
 [Join Xieon’s Gaming Corner on Discord](https://discord.gg/Xieon)
 
----
+
 
 An unofficial community tool from Xieon’s Gaming Corner. Not affiliated with or endorsed by Activision.
-```
